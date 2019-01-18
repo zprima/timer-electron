@@ -1,0 +1,13 @@
+{
+  "name": "etimer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.0.1",
+    "moment": "^2.23.0"
+  }
+}
